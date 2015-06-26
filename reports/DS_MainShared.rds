@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_MainShared">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=172.18.98.9;Initial Catalog=ActsBillingProd</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>cf680a4c-0cbd-462f-88a2-a2d1b28e75f7</DataSourceID>
+</RptDataSource>

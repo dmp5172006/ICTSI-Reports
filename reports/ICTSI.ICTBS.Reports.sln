@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ICTSI.ICTBS.Reports", "ICTSI.ICTBS.Reports.rptproj", "{2CAA2166-62FE-4251-A098-F6037F2F2095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.Debug|Default.ActiveCfg = Debug
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.DebugLocal|Default.Build.0 = DebugLocal
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.Release|Default.ActiveCfg = Release
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.Release|Default.Build.0 = Release
+		{2CAA2166-62FE-4251-A098-F6037F2F2095}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
